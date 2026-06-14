@@ -1,0 +1,9 @@
+Si ejecuto node server.js, se inicia un servidor web
+
+El mensaje que muestra es "Servidor activo y funcionando".
+
+En la ruta/estado muestra:
+{
+  "estado": "Servidor funcionando",
+  "servicio": "API comunitaria"
+}
